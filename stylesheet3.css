@@ -1,0 +1,40 @@
+body{
+  background-image: url("http://fc08.deviantart.net/fs70/f/2014/137/1/c/casino_card_background_wallpaper_hd_1920x1080_by_giozaga-d7intx0.jpg")   }
+
+  header{
+    text-align: center;
+    color: white;
+  }
+
+  ul{
+    list-style-type: none;
+  }
+
+  li{
+    display: inline;
+  }
+
+  img{
+    width: 100px;
+    height: 125px;
+  }
+  
+img:hover{
+  opacity: 0.3;
+}
+
+  button{
+    margin-left: 650px;
+    margin-top: 10px;
+    width: 125px;
+    height:40px;
+    color: white;
+    background-color: black;
+    display: inline;
+    font-size: 16px;
+  }
+  button:hover{
+    background-color: white;
+    opacity: 0.5;
+    color: black;
+  }
